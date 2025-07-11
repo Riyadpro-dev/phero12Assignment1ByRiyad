@@ -34,6 +34,7 @@ color: WHITE;
 */
 
 .fonts{
+    background-color: #F5F8FF;
     font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -106,6 +107,7 @@ color: WHITE;
 }
 .leftcontent p{
     font-size: 16px;
+    color: rgba(0, 0, 0, 50%);
     font-weight: 200;
     padding-bottom: 15px;
 }
@@ -122,6 +124,55 @@ color: WHITE;
     border-radius: 48px;
 
 }
+
+/* Users section    */
+
+.users{
+ display: flex;
+ justify-content: center;
+  padding: 50px 150px;
+
+  
+
+ 
+
+}
+.boxusers{
+    background-color: #E5E7FF;
+    width: 80%;
+    padding: 50px 100px;
+     border-radius: 20px;
+
+
+}
+.boxusers h2{ 
+ padding-left: 70px;
+ font-size: 34px;
+
+}
+
+.innercontent{
+    display: flex;
+    justify-content: center;
+    
+}
+
+.innerusers{
+    padding: 10px 70px;
+
+}
+.innerusers p{
+    color: rgba(0, 0, 0, 50%);
+    font-size: 16px;
+    padding-left: 20px;
+}
+
+.innerusers h1{
+    color: #4E47FF;
+    font-size: 80px;
+}
+
+
 
 
 
