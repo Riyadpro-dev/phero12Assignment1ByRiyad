@@ -53,17 +53,20 @@ color: WHITE;
 .logo{
 
   font-size: 34px;
+  font-weight: 900;
     color: #4E47FF;
     
 }
 
 .btn{
     color: WHITE;
+    font-weight: 600;
     background-color:#4E47FF ;
     margin: 5px;
-    padding: 8px 30px;
+    padding: 10px 45px;
     border: 0px;
     border-radius: 10px;
+    margin-top: -10px;
 
     font-family: "Open Sans", sans-serif;
   font-optical-sizing: auto;
@@ -337,5 +340,41 @@ color: WHITE;
 
 }
 
+/* footer desing */
+.footer{
+    text-align: center;
+    background-color: #fff;
+    padding: 100px;
+}
+.flogo h1{
+     font-size: 80px;
+    color: #4E47FF;
+
+}
+.flogo p{
+    font-size: 12px;
+    opacity: 60%;
+}
+
+.fmenu ul{
+    display: flex;
+    padding: 20px 0;
+    padding-left: 400px;
+    
+
+}
+
+.fmenu ul li{
+    font-size: 12px;
+    padding-right: 30px;
+    list-style: none;
+
+}
+.fmenu ul li a{
+    text-decoration: none;
+    color: black;
+    opacity: 60%;
+
+}
 
 
