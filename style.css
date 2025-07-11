@@ -86,6 +86,43 @@ color: WHITE;
     font-size: 55px;
 }
 
+/* mid section */
+
+.midcontent{
+    display: flex;
+    padding: 50px 150px;
+    justify-content: space-between;
+}
+
+.leftcontent{
+
+    align-items: center;
+    padding-top: 100px;
+
+}
+
+.leftcontent h2{
+    font-size: 42px;
+}
+.leftcontent p{
+    font-size: 16px;
+    font-weight: 200;
+    padding-bottom: 15px;
+}
+
+.btn1{
+    color: WHITE;
+    background-color:#4E47FF ;
+    padding: 8px 30px;
+    border: 0px;
+    border-radius: 10px;
+}
+
+.rightcontent img{
+    border-radius: 48px;
+
+}
+
 
 
 
