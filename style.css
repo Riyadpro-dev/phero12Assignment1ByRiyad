@@ -237,6 +237,41 @@ color: WHITE;
 }
 
 
+/* banner like  */
+
+.midcontent1{
+    background-color: white;
+    width: 75%;
+    margin-left: 150px;
+    border-radius: 14px;
+    padding-bottom: 40px;
+
+}
+
+
+.topcontent{
+    text-align: center;
+    padding: 30px;
+
+}
+.topcontent h2{
+    font-size: 40px;
+    padding-bottom: 10px;
+}
+.topcontent p{
+    font-size: 12px;
+    opacity: 50%;
+    padding-bottom: 15px;
+}
+
+.bottomcontent{
+    text-align: center;
+}
+.bottomcontent img{
+    width: 70%;
+    border-radius: 48px;
+}
+
 
 
 
